@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
@@ -12,7 +13,7 @@ const Navbar = () => {
 
   return (
     <nav className={`${styles.paddingX} w-full flex items-center py-5
-    fixed top-0 z-20 bg-primary`}>
+    fixed top-0 z-20`}>
 
       <div className="w-full flex justify-between items-center max-w-7x1 mx-auto">
       <Link
@@ -50,7 +51,7 @@ const Navbar = () => {
           <div
             className={`${
               !toggle ? "hidden" : "flex"
-            } pt-20 p-6 black-gradient absolute top-2 right-0 mx-4 my-2 min-w-[140px] z-10 rounded-xl`}
+            } pt-20 p-6 absolute top-2 right-0 mx-4 my-2 min-w-[140px] z-10 rounded-xl`}
           >
             <ul className="list-none flex justify-end items-start flex-col gap-4">
               {navLinks.map((link) => {
@@ -58,7 +59,7 @@ const Navbar = () => {
                   <li
                     key={link.id}
                     className={`${
-                      active === link.title ? "text-white" : "text-secondary-100"
+                      active === link.title ? "text-black" : "text-secondary-100"
                     } font-poppins font-medium cursor-pointer text-[16px]`}
                     onClick={() => {
                       setActive(link.title);

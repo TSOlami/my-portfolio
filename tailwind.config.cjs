@@ -6,6 +6,9 @@ module.exports = {
 	mode: "jit",
 	theme: {
 	  extend: {
+		dropShadow: {
+			green: '0 0 10rem #29c26f',
+		},
 		colors: {
 		  primary: "#A89078",
 		  secondary: {
@@ -19,13 +22,10 @@ module.exports = {
 		  "white-100": "#f3f3f3",
 		},
 		boxShadow: {
-		  card: "0px 35px 120px -15px #211e35",
+		  card: "0px 35px 120px -15px #f0e1ce",
 		},
 		screens: {
 		  xs: "450px",
-		},
-		backgroundImage: {
-		  "hero-pattern": "url('/src/assets/herobg1.jpg')",
 		},
 	  },
 	},
