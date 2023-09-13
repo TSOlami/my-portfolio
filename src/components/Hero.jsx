@@ -1,7 +1,7 @@
 import { motion, m, LazyMotion, domAnimation } from "framer-motion";
 
 import { styles } from "../styles";
-import HeroText from "../Components/HeroText";
+import HeroText from "./elements/HeroText";
 import { ComputersCanvas } from "./canvas";
 
 const Hero = () => {
