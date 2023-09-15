@@ -59,7 +59,7 @@ import frontenddev from './tech/frontenddev.png';
 import security from './tech/security.png';
 import responsive from './tech/responsive.png';
 import c from './tech/c.png';
-import database from './tech/databasec.png';
+import database from './tech/database.png';
 
 export {
   logo,

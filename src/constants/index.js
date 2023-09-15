@@ -38,21 +38,10 @@ import {
   } from "../assets";
 
   import {
-	htmlIcon,
-	cssIcon,
-	jsIcon,
-	reactIcon,
 	awsIcon,
-	javaIcon,
 	gitIcon,
-	githubIcon,
-	psqlIcon,
 	eslintIcon,
-	pyIcon,
-	
-	nodeIcon,
 	raspIcon,
-	neoIcon,
 	figmaIcon,
   } from '../assets';
   
@@ -337,38 +326,31 @@ import {
 	},
 	{
 	  id: 'cloud',
-	  title: 'Python',
-	  icon: pyIcon,
+	  title: 'Cloud Services',
+	  icon: awsIcon,
 	  description:
-		'With 3 years of Python experience, I am adept at coding functions and creating graphic interfaces using Tkinter.',
+		'I leverage cloud services like AWS, Google Cloud and Azure to scale and deploy applications with ease.',
 	},
 	{
-	  id: 'node',
-	  title: 'Node',
-	  icon: nodeIcon,
+	  id: 'docker',
+	  title: 'Containerization ',
+	  icon: docker,
 	  description:
-		'When it comes to building web applications, I prefer using Node as my runtime environment over Yarn. I have expertise in leveraging Node.js to develop powerful and scalable web applications.',
-	},
-	{
-	  id: 'neo',
-	  title: 'Neo4j',
-	  icon: neoIcon,
-	  description:
-		'I am knowledgeable in Neo4j, the graph database management system. I have expertise in utilizing GraphOS to build robust recommendation systems, leveraging the strength of graph-based data modeling.',
+		' I specialize in containerization technologies such as Docker, enabling efficient application packaging and deployment for consistent performance across diverse environments.',
 	},
 	{
 	  id: 'raspi',
 	  title: 'Raspberry Pi',
 	  icon: raspIcon,
 	  description:
-		'I have hands-on experience with Raspberry Pi, where I utilized a virtual Linux machine to execute programs written in assembly language. This allowed me to explore low-level computing and develop efficient code for the Raspberry Pi platform.',
+		'I am passionate about Raspberry Pi and its wide range of applications. Whether it is configuring hardware, coding in Python, or experimenting with IoT projects, I love diving into the endless possibilities this versatile tool offers.',
 	},
 	{
 	  id: 'eslint',
-	  title: 'Eslint',
+	  title: 'Code Quality',
 	  icon: eslintIcon,
 	  description:
-		'I utilize ESLint to identify and resolve code issues, as well as standardize the structure of my projects. With ESLint, I ensure code quality and consistency throughout my development process.',
+		'I take pride in crafting pristine and professional code, adhering to industry standards and best practices. I diligently follow PEP8 style guidelines for Python and leverage ESLint for JavaScript projects, ensuring top-notch quality and consistency.',
 	},
   ];
 
