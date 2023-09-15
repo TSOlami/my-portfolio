@@ -25,6 +25,16 @@ import {
 	tripguide,
 	threejs,
 	avatar,
+	solving,
+	devops,
+	security,
+	testing,
+	backenddev,
+	api,
+	frontenddev,
+	responsive,
+	database,
+	c,
   } from "../assets";
 
   import {
@@ -39,7 +49,7 @@ import {
 	psqlIcon,
 	eslintIcon,
 	pyIcon,
-	viteIcon,
+	
 	nodeIcon,
 	raspIcon,
 	neoIcon,
@@ -242,84 +252,91 @@ import {
 
   const skills = [
 	{
-	  id: 'html',
-	  title: 'HTML',
-	  icon: htmlIcon,
+		id: 'backenddev',
+		title: 'Backend Development',
+		icon: backenddev,
+		description:
+		  'I am well-versed in server-side programming, where I craft the core logic of web applications using languages like Node.js and Python. My expertise ensures seamless app performance.',
+	  },
+	{
+	  id: 'frontenddev',
+	  title: 'Frontend Development',
+	  icon: frontenddev,
 	  description:
-		'I have a strong command of HTML for organizing web pages and generating meaningful content that can be accessed by all users.',
+		'I craft captivating user interfaces and seamless experiences with the magic of React, weaving together stunning visuals and user-friendly interactions.',
 	},
 	{
-	  id: 'css',
-	  title: 'CSS',
-	  icon: cssIcon,
+	  id: 'devops',
+	  title: 'DevOps',
+	  icon: devops,
 	  description:
-	  'I possess expertise in utilizing CSS to design web pages and craft visually captivating layouts that enhance the overall user experience.',
+	  'I manage the magic behind the scenes, ensuring applications are deployed, monitored, and scaled gracefully. My toolkit includes Bash scripting and Puppet for orchestration.',
 	},
 	{
-	  id: 'javascript',
-	  title: 'JavaScript',
-	  icon: jsIcon,
+	  id: 'security',
+	  title: 'Security',
+	  icon: security,
 	  description:
-	  'I have substantial experience in employing JavaScript to introduce interactivity and functionality into web pages, resulting in dynamic user interfaces.',
+	  'I am committed to safeguarding digital fortresses. Employing best practices, I fortify applications with layers of security, covering everything from code audits to encryption and user authentication.',
 	},
 	{
-	  id: 'react',
-	  title: 'React',
-	  icon: reactIcon,
+	  id: 'testing',
+	  title: 'Testing',
+	  icon: testing,
 	  description:
-		'I am well-versed in React, proficient in creating reusable components and managing application state using hooks and context.',
+		'I ensure rock-solid reliability. With a meticulous approach, I put applications through rigorous testing, guaranteeing they perform flawlessly and meet user expectations.',
 	},
 	{
-	  id: 'java',
-	  title: 'Java',
-	  icon: javaIcon,
+	  id: 'api',
+	  title: 'API',
+	  icon: api,
 	  description:
-		'I have extensive experience utilizing Java for object-oriented programming (OOP) and implementing data structures.',
+		'I ensure that data flows effortlessly between applications, enhancing functionality and user experience. I leverage tools like Postman and Insomnia to streamline this process.',
 	},
 	{
-	  id: 'aws',
-	  title: 'Amazon Web Services',
-	  icon: awsIcon,
+	  id: 'responsive',
+	  title: 'Responsive Design',
+	  icon: responsive,
 	  description:
-		'I am certified in AWS and proficient in working with EC2 and RDS instances, leveraging the power of cloud computing for scalable and reliable infrastructure.',
+		'I create responsive web layouts that adapt beautifully to any screen, from desktops to mobile phones, ensuring a top-notch user experience.',
 	},
 	{
 	  id: 'figma',
 	  title: 'Figma',
 	  icon: figmaIcon,
 	  description:
-	  'In my Figma skills, I unleash creativity, designing captivating user interfaces and collaborating seamlessly with designers and developers.',
+	  ' I bring ideas to life using Figma, creating stunning and user-friendly interfaces that captivate and engage.',
 	},
 	{
 	  id: 'git',
-	  title: 'Git',
+	  title: 'Version Control',
 	  icon: gitIcon,
 	  description:
-	  'I am proficient in Git, managing code changes, collaborating with others, and resolving conflicts effectively.',
+	  'I harness the power of version control systems like Git and GitHub to keep projects organized, collaborative, and error-free.',
 	},
 	{
-	  id: 'github',
-	  title: 'GitHub',
-	  icon: githubIcon,
+	  id: 'solving',
+	  title: 'Problem Solving',
+	  icon: solving,
 	  description:
-		'I am skilled in using GitHub for seamless project collaboration, code sharing, and issue tracking. Through GitHub, I efficiently create and manage repositories and effectively present my work to potential employers.',
+		' I thrive on tackling complex challenges, using my mathematical background to break down problems and find innovative solutions that make a difference.',
 	},
 	{
-	  id: 'psql',
-	  title: 'Postgresql',
-	  icon: psqlIcon,
+	  id: 'database',
+	  title: 'Database Management',
+	  icon: database,
 	  description:
-		'I have a strong command of PostgreSQL, encompassing a wide range of skills such as database normalization, triggers, front-end connectivity, and data analysis using software like Power BI.',
+		'I excel in efficiently handling databases, encompassing tasks such as expertly crafting data models and optimizing queries. Proficient in SQL, MongoDB, and PostgreSQL, I ensure data flows seamlessly.',
 	},
 	{
-	  id: 'vite',
-	  title: 'Vite',
-	  icon: viteIcon,
+	  id: 'c',
+	  title: 'C Programming',
+	  icon: c,
 	  description:
-		'I have gained considerable experience working with Vite for approximately six months, leveraging its capabilities to build React websites and seamlessly deploy them on platforms like Netlify.',
+		'My journey into the world of object-oriented programming began with C. This foundational language taught me the essentials of structured coding and set the stage for my career in software development.',
 	},
 	{
-	  id: 'py',
+	  id: 'cloud',
 	  title: 'Python',
 	  icon: pyIcon,
 	  description:

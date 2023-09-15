@@ -50,6 +50,16 @@ import pyIcon from './tech/py.png';
 import nodeIcon from './tech/node.webp';
 import neoIcon from './tech/neo.png';
 import raspIcon from './tech/raspi.png';
+import solving from './tech/solving.png';
+import devops from './tech/devops.png';
+import testing from './tech/testing.png';
+import backenddev from './tech/backenddev.png';
+import api from './tech/api.png';
+import frontenddev from './tech/frontenddev.png';
+import security from './tech/security.png';
+import responsive from './tech/responsive.png';
+import c from './tech/c.png';
+import database from './tech/databasec.png';
 
 export {
   logo,
@@ -98,4 +108,14 @@ export {
   viteIcon,
   neoIcon,
   raspIcon,
+  solving,
+  devops,
+  backenddev,
+  frontenddev,
+  security,
+  testing,
+  api,
+  responsive,
+  database,
+  c,
 };
