@@ -35,6 +35,7 @@ import {
 	responsive,
 	database,
 	c,
+	pyIcon,
   } from "../assets";
 
   import {
@@ -97,6 +98,14 @@ import {
 	  icon: css,
 	},
 	{
+		name: "C",
+		icon: c,
+	},
+	{
+		name: "Python",
+		icon: pyIcon,
+	},
+	{
 	  name: "JavaScript",
 	  icon: javascript,
 	},
@@ -139,6 +148,10 @@ import {
 	{
 	  name: "docker",
 	  icon: docker,
+	},
+	{
+		name: "AWS",
+		icon: awsIcon,
 	},
   ];
   
