@@ -58,7 +58,7 @@ import {
 	{
 		id: 'skills',
 		title: 'Skills',
-	},
+	  },
 	{
 	  id: "contact",
 	  title: "Contact",
@@ -148,10 +148,6 @@ import {
 	{
 	  name: "docker",
 	  icon: docker,
-	},
-	{
-		name: "AWS",
-		icon: awsIcon,
 	},
   ];
   
