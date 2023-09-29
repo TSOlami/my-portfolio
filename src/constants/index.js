@@ -441,4 +441,4 @@ import {
 	],
   };
 
-  export { services, technologies, experiences, testimonials,education, projects,introduction, memoji, skills };
+  export { services, technologies, experiences, testimonials, education, projects, introduction, memoji, skills };
