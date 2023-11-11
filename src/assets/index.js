@@ -27,6 +27,8 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
+import namssn from "./namssn.png";
+import trackc from "./trackc.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -87,6 +89,8 @@ export {
   shopify,
   starbucks,
   tesla,
+  namssn,
+  trackc,
   carrent,
   jobit,
   tripguide,
