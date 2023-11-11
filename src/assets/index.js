@@ -60,7 +60,7 @@ import api from './tech/api.png';
 import frontenddev from './tech/frontenddev.png';
 import security from './tech/security.png';
 import responsive from './tech/responsive.png';
-import c from './tech/c.png';
+import c from './tech/cee.png';
 import database from './tech/database.png';
 
 export {
