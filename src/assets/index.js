@@ -31,7 +31,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
-import avatar from "./TeeJay.jpeg";
+import avatar from "./teejay.png";
 
 // Technologies
 import htmlIcon from './tech/html.png';

@@ -2,7 +2,7 @@
 import { m, LazyMotion, domAnimation } from "framer-motion";
 
 import SectionTitle from "./elements/SectionTitle";
-import { memoji, introduction } from "../Constants/index";
+import { memoji, introduction } from "../constants";
 import ImageSlider from "./elements/ImageSlider";
 import { SectionWrapper } from "../hoc";
 

@@ -191,6 +191,35 @@ body {
   transform: translateZ(0);
 }
 
+.blob {
+  animation: morph 3.6s linear infinite;
+  background: #6e6052;
+  border-collapse: separate;
+  background-size: cover;
+  background-position: center;
+  outline: 1px solid transparent;
+}
+
+@keyframes morph {
+  0%,
+  100% {
+    border-radius: 40% 60% 70% 30% / 40% 40% 60% 50%;
+    -webkit-border-radius: 40% 60% 70% 30% / 40% 40% 60% 50%;
+    -moz-border-radius: 40% 60% 70% 30% / 40% 40% 60% 50%;
+  }
+  34% {
+    border-radius: 70% 30% 50% 50% / 30% 30% 70% 70%;
+    -webkit-border-radius: 70% 30% 50% 50% / 30% 30% 70% 70%;
+    -moz-border-radius: 70% 30% 50% 50% / 30% 30% 70% 70%;
+  }
+  67% {
+    border-radius: 100% 60% 60% 100% / 100% 100% 60% 60%;
+    -webkit-border-radius: 100% 60% 60% 100% / 100% 100% 60% 60%;
+    -moz-border-radius: 100% 60% 60% 100% / 100% 100% 60% 60%;
+  }
+}
+
+
 @keyframes mulShdSpin {
   0%,
   100% {
@@ -265,6 +294,15 @@ body {
       0em 2.5em 0 0em rgba(255, 255, 255, 0.2),
       -1.8em 1.8em 0 0em rgba(255, 255, 255, 0.5),
       -2.6em 0em 0 0em rgba(255, 255, 255, 0.7), -1.8em -1.8em 0 0em #ffffff;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .drop-shadow-div {
+    -webkit-appearance: none;
+    appearance: none;
+    -webkit-filter: drop-shadow(0 0 1.5rem #cac2b9);
+    filter: drop-shadow(0 0 1.5rem #cac2b9);
   }
 }
 
