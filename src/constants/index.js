@@ -51,13 +51,13 @@ import {
 	  title: "About",
 	},
 	{
+		id: 'skills',
+		title: 'Skills',
+	},
+	{
 		id: 'projects',
 		title: 'Projects',
 	},
-	{
-		id: 'skills',
-		title: 'Skills',
-	  },
 	{
 	  id: "contact",
 	  title: "Contact",
@@ -391,7 +391,7 @@ import {
 	{
 	  name: "TrackC",
 	  description:
-		"TrackC is a web application that allows users to track all their crypto assets in one place. I built the web application using Python-Flask web framework and Tailwind. I used coingecko API to get live coin prices with news updates and also use the data to determine the total value of the user's portfolio. The web application is currently live at https://trackc-flask-app-wg3p.onrender.com/",
+		"TrackC is a web application that allows users to track all their crypto assets, manage their portfolio, and stay updated with the latest cryptocurrency news. I built the web application using Python-Flask web framework and Tailwind. I used coingecko API to get live coin prices with news updates and also use the data to determine the total value of the user's portfolio. The web application is currently live at https://trackc-flask-app-wg3p.onrender.com/",
 	  tags: [
 		{
 		  name: "Flask",
