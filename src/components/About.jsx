@@ -36,7 +36,7 @@ const About = () => {
             </LazyMotion>
           </div>
           <div className="w-full md:w-[50%] flex h-full items-center justify-center">
-            <div className="w-[80%] lg:w-[50%] h-[300px] sm:h-[350px] flex justify-center items-center">
+            <div className="w-[80%] lg:w-[50%] h-[400px] sm:h-[450px] flex justify-center items-center">
               <ImageSlider images={memoji.image} />
             </div>
           </div>
