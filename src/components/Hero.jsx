@@ -10,7 +10,7 @@ const Hero = () => {
       <div
         className={`absolute inset-0 top-[120px]  max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
       >
-        <div id="hero" className="w-full flex justify-center overflow-hidden-web relative">
+        <div id="hero" className="w-full flex justify-center relative">
         <LazyMotion features={domAnimation} strict>
           <m.div
             id="hero"

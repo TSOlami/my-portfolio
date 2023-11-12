@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dead Earth
+* source:	https://sketchfab.com/3d-models/dead-earth-48cacc35674444bcbfa3b254d96a583a
+* author:	Chaitanya Krishnan (https://sketchfab.com/chaitanyak)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dead Earth" (https://sketchfab.com/3d-models/dead-earth-48cacc35674444bcbfa3b254d96a583a) by Chaitanya Krishnan (https://sketchfab.com/chaitanyak) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -10,7 +10,7 @@ const SectionTitle = (props) => {
         initial={{ x: -150 }}
         whileInView={{ x: 0 }}
         transition={{ duration: 0.6, type: "spring" }}
-        className="text-secondary-100 p-6 noselect"
+        className="text-secondary-100 p-2 noselect"
       >
         <span
           className="text-secondary-200 opacity-50"
