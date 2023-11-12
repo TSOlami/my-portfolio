@@ -6,6 +6,10 @@ module.exports = {
 	mode: "jit",
 	theme: {
 	  extend: {
+			fontFamily: {
+        'montserrat': ['Montserrat', 'serif'],
+				'orbitron': ['Orbitron', 'sans-serif'],
+      },
 		dropShadow: {
 			green: '0 0 10rem #29c26f',
 		},
