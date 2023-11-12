@@ -20,6 +20,11 @@ body {
   -webkit-overflow-x: hidden;
 }
 
+.overflow-hidden-web {
+  overflow: hidden;
+  -webkit-overflow: hidden;
+}
+
 .hash-span {
   margin-top: -100px;
   padding-bottom: 100px;

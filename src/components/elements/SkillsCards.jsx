@@ -31,7 +31,7 @@ const SkillsCards = () => {
             <span
               className="text-xl text-black"
               style={{
-                fontFamily: "'Press Start 2P', cursive",
+                fontFamily: "'Montserrat', sans-serif",
                 fontWeight: "bold",
               }}
             >
@@ -40,7 +40,7 @@ const SkillsCards = () => {
             <span
               className="text-center bg-secondary-50 text-black rounded-xl text-m p-4"
               style={{
-                fontFamily: "'Press Start 2P', cursive",
+                fontFamily: "'Montserrat', sans-serif",
                 fontWeight: "400",
               }}
             >

@@ -16,7 +16,7 @@ const HeroText = () => {
           transition={{ duration: 0.8, type: "spring" }}
           className="text-center flex justify-center items-center flex-col opacity-100 text-5xl sm:text-7xl cursor-default"
           style={{
-            fontFamily: "'Press Start 2P', cursive",
+            fontFamily: "'Montserrat', sans-serif",
           }}
         >
           <m.span

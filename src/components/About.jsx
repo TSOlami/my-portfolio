@@ -11,7 +11,7 @@ const About = () => {
     <div id="about" className="w-full flex justify-center overflow-hidden-web">
       <div className="w-full xl:w-[70%] flex flex-col pb-16">
         <div className="w-full">
-          <SectionTitle title="Who's TJ ?" subtitle="Introduction" />
+          <SectionTitle title="ABOUT ME" subtitle="Introduction" />
         </div>
         <div className="w-full flex flex-col-reverse sm:flex-row">
           <div className="w-full md:w-[50%] md:h-full flex items-center mt-10">
@@ -25,7 +25,7 @@ const About = () => {
                   stiffness: 100,
                   damping: 20,
                 }}
-                style={{ fontFamily: "'Press Start 2P', cursive" }}
+                style={{ fontFamily: "'Montserrat', sans-serif" }}
                 className="text-secondary-50 p-6 text-center flex flex-col gap-6"
               >
                 <span className="text-secondary-200">{introduction.text[0]}</span>

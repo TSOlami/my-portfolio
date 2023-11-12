@@ -16,7 +16,7 @@ const SectionTitle = (props) => {
           className="text-secondary-200 opacity-50"
           style={{
             textTransform: "uppercase",
-            fontFamily: "'Press Start 2P', cursive",
+            fontFamily: "'Montserrat', sans-serif",
             fontWeight: "600",
           }}
         >
@@ -24,7 +24,7 @@ const SectionTitle = (props) => {
         </span>
         <h2
           className="tracking-wider text-5xl sm:text-6xl md:text-7xl"
-          style={{ fontFamily: "'Press Start 2P', cursive"}}
+          style={{ fontFamily: "'Orbitron', sans-serif"}}
         >
           {title.split("").map((char, index) => {
             if(char === " ") {
