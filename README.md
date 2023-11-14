@@ -5,7 +5,7 @@ This project demonstrates my skills with React, Three.js, framer-motion, ESLint,
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
 <br>MY-PORTFOLIO</h1>
-<h3>◦ ► INSERT-TEXT</h3>
+<h3>◦ ►  </h3>
 <h3>◦ Developed with the software and tools below.</h3>
 
 <p align="center">
@@ -48,13 +48,13 @@ This project demonstrates my skills with React, Three.js, framer-motion, ESLint,
 
 ## 📍 Overview
 
-► INSERT-TEXT
+►  
 
 ---
 
 ## 📦 Features
 
-► INSERT-TEXT
+►  
 
 ---
 
@@ -130,50 +130,50 @@ This project demonstrates my skills with React, Three.js, framer-motion, ESLint,
 
 | File                                                                                                                                                                   | Summary       |
 | ---                                                                                                                                                                    | ---           |
-| [.env](https://github.com/TSOlami/my-portfolio/blob/main/.env)                                                                                                         | ► INSERT-TEXT |
-| [.eslintrc.cjs](https://github.com/TSOlami/my-portfolio/blob/main/.eslintrc.cjs)                                                                                       | ► INSERT-TEXT |
-| [index.html](https://github.com/TSOlami/my-portfolio/blob/main/index.html)                                                                                             | ► INSERT-TEXT |
-| [package-lock.json](https://github.com/TSOlami/my-portfolio/blob/main/package-lock.json)                                                                               | ► INSERT-TEXT |
-| [package.json](https://github.com/TSOlami/my-portfolio/blob/main/package.json)                                                                                         | ► INSERT-TEXT |
-| [postcss.config.js](https://github.com/TSOlami/my-portfolio/blob/main/postcss.config.js)                                                                               | ► INSERT-TEXT |
-| [tailwind.config.cjs](https://github.com/TSOlami/my-portfolio/blob/main/tailwind.config.cjs)                                                                           | ► INSERT-TEXT |
-| [vite.config.js](https://github.com/TSOlami/my-portfolio/blob/main/vite.config.js)                                                                                     | ► INSERT-TEXT |
-| [vite.config.js.timestamp-1699733487474-19c37bddd1da8.mjs](https://github.com/TSOlami/my-portfolio/blob/main/vite.config.js.timestamp-1699733487474-19c37bddd1da8.mjs) | ► INSERT-TEXT |
-| [license.txt](https://github.com/TSOlami/my-portfolio/blob/main/public\dead_earth\license.txt)                                                                         | ► INSERT-TEXT |
-| [scene.gltf](https://github.com/TSOlami/my-portfolio/blob/main/public\dead_earth\scene.gltf)                                                                           | ► INSERT-TEXT |
-| [license.txt](https://github.com/TSOlami/my-portfolio/blob/main/public\desktop_pc\license.txt)                                                                         | ► INSERT-TEXT |
-| [scene.gltf](https://github.com/TSOlami/my-portfolio/blob/main/public\desktop_pc\scene.gltf)                                                                           | ► INSERT-TEXT |
-| [license.txt](https://github.com/TSOlami/my-portfolio/blob/main/public\gaming_desktop\license.txt)                                                                     | ► INSERT-TEXT |
-| [scene.gltf](https://github.com/TSOlami/my-portfolio/blob/main/public\gaming_desktop\scene.gltf)                                                                       | ► INSERT-TEXT |
-| [license.txt](https://github.com/TSOlami/my-portfolio/blob/main/public\planet\license.txt)                                                                             | ► INSERT-TEXT |
-| [scene.gltf](https://github.com/TSOlami/my-portfolio/blob/main/public\planet\scene.gltf)                                                                               | ► INSERT-TEXT |
-| [App.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\App.jsx)                                                                                               | ► INSERT-TEXT |
-| [index.css](https://github.com/TSOlami/my-portfolio/blob/main/src\index.css)                                                                                           | ► INSERT-TEXT |
-| [main.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\main.jsx)                                                                                             | ► INSERT-TEXT |
-| [styles.js](https://github.com/TSOlami/my-portfolio/blob/main/src\styles.js)                                                                                           | ► INSERT-TEXT |
-| [About.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\About.jsx)                                                                                | ► INSERT-TEXT |
-| [Contact.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Contact.jsx)                                                                            | ► INSERT-TEXT |
-| [Footer.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Footer.jsx)                                                                              | ► INSERT-TEXT |
-| [Hero.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Hero.jsx)                                                                                  | ► INSERT-TEXT |
-| [index.js](https://github.com/TSOlami/my-portfolio/blob/main/src\components\index.js)                                                                                  | ► INSERT-TEXT |
-| [Loader.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Loader.jsx)                                                                              | ► INSERT-TEXT |
-| [Navbar.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Navbar.jsx)                                                                              | ► INSERT-TEXT |
-| [Skills.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Skills.jsx)                                                                              | ► INSERT-TEXT |
-| [SocialLinks.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\SocialLinks.jsx)                                                                    | ► INSERT-TEXT |
-| [Works.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Works.jsx)                                                                                | ► INSERT-TEXT |
-| [Computers.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\canvas\Computers.jsx)                                                                 | ► INSERT-TEXT |
-| [Earth.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\canvas\Earth.jsx)                                                                         | ► INSERT-TEXT |
-| [index.js](https://github.com/TSOlami/my-portfolio/blob/main/src\components\canvas\index.js)                                                                           | ► INSERT-TEXT |
-| [Stars.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\canvas\Stars.jsx)                                                                         | ► INSERT-TEXT |
-| [HeroText.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\HeroText.jsx)                                                                 | ► INSERT-TEXT |
-| [ImageSlider.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\ImageSlider.jsx)                                                           | ► INSERT-TEXT |
-| [MarqueeCards.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\MarqueeCards.jsx)                                                         | ► INSERT-TEXT |
-| [SectionTitle.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\SectionTitle.jsx)                                                         | ► INSERT-TEXT |
-| [SkillsCards.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\SkillsCards.jsx)                                                           | ► INSERT-TEXT |
-| [index.js](https://github.com/TSOlami/my-portfolio/blob/main/src\constants\index.js)                                                                                   | ► INSERT-TEXT |
-| [index.js](https://github.com/TSOlami/my-portfolio/blob/main/src\hoc\index.js)                                                                                         | ► INSERT-TEXT |
-| [SectionWrapper.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\hoc\SectionWrapper.jsx)                                                                     | ► INSERT-TEXT |
-| [motion.js](https://github.com/TSOlami/my-portfolio/blob/main/src\utils\motion.js)                                                                                     | ► INSERT-TEXT |
+| [.env](https://github.com/TSOlami/my-portfolio/blob/main/.env)                                                                                                         | ►   |
+| [.eslintrc.cjs](https://github.com/TSOlami/my-portfolio/blob/main/.eslintrc.cjs)                                                                                       | ►   |
+| [index.html](https://github.com/TSOlami/my-portfolio/blob/main/index.html)                                                                                             | ►   |
+| [package-lock.json](https://github.com/TSOlami/my-portfolio/blob/main/package-lock.json)                                                                               | ►   |
+| [package.json](https://github.com/TSOlami/my-portfolio/blob/main/package.json)                                                                                         | ►   |
+| [postcss.config.js](https://github.com/TSOlami/my-portfolio/blob/main/postcss.config.js)                                                                               | ►   |
+| [tailwind.config.cjs](https://github.com/TSOlami/my-portfolio/blob/main/tailwind.config.cjs)                                                                           | ►   |
+| [vite.config.js](https://github.com/TSOlami/my-portfolio/blob/main/vite.config.js)                                                                                     | ►   |
+| [vite.config.js.timestamp-1699733487474-19c37bddd1da8.mjs](https://github.com/TSOlami/my-portfolio/blob/main/vite.config.js.timestamp-1699733487474-19c37bddd1da8.mjs) | ►   |
+| [license.txt](https://github.com/TSOlami/my-portfolio/blob/main/public\dead_earth\license.txt)                                                                         | ►   |
+| [scene.gltf](https://github.com/TSOlami/my-portfolio/blob/main/public\dead_earth\scene.gltf)                                                                           | ►   |
+| [license.txt](https://github.com/TSOlami/my-portfolio/blob/main/public\desktop_pc\license.txt)                                                                         | ►   |
+| [scene.gltf](https://github.com/TSOlami/my-portfolio/blob/main/public\desktop_pc\scene.gltf)                                                                           | ►   |
+| [license.txt](https://github.com/TSOlami/my-portfolio/blob/main/public\gaming_desktop\license.txt)                                                                     | ►   |
+| [scene.gltf](https://github.com/TSOlami/my-portfolio/blob/main/public\gaming_desktop\scene.gltf)                                                                       | ►   |
+| [license.txt](https://github.com/TSOlami/my-portfolio/blob/main/public\planet\license.txt)                                                                             | ►   |
+| [scene.gltf](https://github.com/TSOlami/my-portfolio/blob/main/public\planet\scene.gltf)                                                                               | ►   |
+| [App.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\App.jsx)                                                                                               | ►   |
+| [index.css](https://github.com/TSOlami/my-portfolio/blob/main/src\index.css)                                                                                           | ►   |
+| [main.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\main.jsx)                                                                                             | ►   |
+| [styles.js](https://github.com/TSOlami/my-portfolio/blob/main/src\styles.js)                                                                                           | ►   |
+| [About.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\About.jsx)                                                                                | ►   |
+| [Contact.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Contact.jsx)                                                                            | ►   |
+| [Footer.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Footer.jsx)                                                                              | ►   |
+| [Hero.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Hero.jsx)                                                                                  | ►   |
+| [index.js](https://github.com/TSOlami/my-portfolio/blob/main/src\components\index.js)                                                                                  | ►   |
+| [Loader.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Loader.jsx)                                                                              | ►   |
+| [Navbar.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Navbar.jsx)                                                                              | ►   |
+| [Skills.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Skills.jsx)                                                                              | ►   |
+| [SocialLinks.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\SocialLinks.jsx)                                                                    | ►   |
+| [Works.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\Works.jsx)                                                                                | ►   |
+| [Computers.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\canvas\Computers.jsx)                                                                 | ►   |
+| [Earth.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\canvas\Earth.jsx)                                                                         | ►   |
+| [index.js](https://github.com/TSOlami/my-portfolio/blob/main/src\components\canvas\index.js)                                                                           | ►   |
+| [Stars.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\canvas\Stars.jsx)                                                                         | ►   |
+| [HeroText.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\HeroText.jsx)                                                                 | ►   |
+| [ImageSlider.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\ImageSlider.jsx)                                                           | ►   |
+| [MarqueeCards.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\MarqueeCards.jsx)                                                         | ►   |
+| [SectionTitle.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\SectionTitle.jsx)                                                         | ►   |
+| [SkillsCards.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\components\elements\SkillsCards.jsx)                                                           | ►   |
+| [index.js](https://github.com/TSOlami/my-portfolio/blob/main/src\constants\index.js)                                                                                   | ►   |
+| [index.js](https://github.com/TSOlami/my-portfolio/blob/main/src\hoc\index.js)                                                                                         | ►   |
+| [SectionWrapper.jsx](https://github.com/TSOlami/my-portfolio/blob/main/src\hoc\SectionWrapper.jsx)                                                                     | ►   |
+| [motion.js](https://github.com/TSOlami/my-portfolio/blob/main/src\utils\motion.js)                                                                                     | ►   |
 
 </details>
 
