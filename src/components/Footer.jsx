@@ -6,7 +6,7 @@ const Footer = () => {
 				<SocialLinks />
 				<div className="bg-tertiary flex justify-center pb-4 text-white font-montserrat">
 					<span>
-						Made by <em>Tijani Saheed Olalekan (T.J.)</em>
+						Made by <em>Tijani Saheed Olamilekan (T.J.)</em>
 					</span>
 				</div>
 			</div>
