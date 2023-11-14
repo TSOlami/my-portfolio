@@ -366,7 +366,7 @@ import {
 	{
 	  name: "NAMSSN Website",
 	  description:
-		"NAMSSN is a non-profit organization that aims to promote the welfare of Nigerian students in the Federal University of Technology, Minna. I built their website using Figma, React.js and Tailwind CSS, and deployed it on Netlify. I also created a custom backend using Node.js and MongoDB to handle user authentication and data storage. The website is currently live at https://test-namssn-futminna.onrender.com/",
+		"NAMSSN is a non-profit organization that aims to promote the welfare of Nigerian students in the Federal University of Technology, Minna. I built the website using Figma, React.js and Tailwind CSS for the frontend and deployed it on Render. I also created a custom backend using Node.js and MongoDB to handle user authentication and data storage.",
 	  tags: [
 		{
 		  name: "react",
@@ -387,11 +387,12 @@ import {
 	  ],
 	  image: namssn,
 	  source_code_link: "https://github.com/TSOlami/namssn-website/",
+		project_link: "https://test-namssn-futminna.onrender.com/",
 	},
 	{
 	  name: "TrackC",
 	  description:
-		"TrackC is a web application that allows users to track all their crypto assets, manage their portfolio, and stay updated with the latest cryptocurrency news. I built the web application using Python-Flask web framework and Tailwind. I used coingecko API to get live coin prices with news updates and also use the data to determine the total value of the user's portfolio. The web application is currently live at https://trackc-flask-app-wg3p.onrender.com/",
+		"TrackC is a web application that allows users to track all their crypto assets, manage their portfolio, and stay updated with the latest cryptocurrency news. I built the web application using Python-Flask web framework and Tailwind. I used coingecko API to get live coin prices with news updates and also use the data to determine the total value of the user's portfolio.",
 	  tags: [
 		{
 		  name: "Flask",
@@ -408,6 +409,7 @@ import {
 	  ],
 	  image: trackc,
 	  source_code_link: "https://github.com/TSOlami/TrackC",
+		project_link: "https://trackc-flask-app-wg3p.onrender.com/",
 	},
   ];
   

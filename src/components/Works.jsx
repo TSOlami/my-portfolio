@@ -15,18 +15,19 @@ const ProjectCard = ({
   tags,
   image,
   source_code_link,
+  project_link,
 }) => {
   return (
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
       <Tilt
         options={{
-          max: 45,
+          max: 30,
           scale: 1,
           speed: 450,
         }}
-        className='bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full'
       >
-        <div className='relative w-full h-[230px]'>
+        <div className="bg-tertiary rounded-2xl p-5 sm:w-[360px] w-full">
+          <div className='relative w-full h-[230px]'>
           <img
             src={image}
             alt='project_image'
@@ -62,6 +63,18 @@ const ProjectCard = ({
             </p>
           ))}
         </div>
+        </div>
+        <div className="mt-2 flex flex-wrap gap-1"></div>
+				<div className="mt-3 flex justify-center items-center">
+					<a
+						className="shadow-md shadow-primary p-2 bg-tertiary rounded-lg flex justify-center"
+						href={project_link}
+						target="_blank"
+            rel="noreferrer"
+					>
+						See the Project
+					</a>
+				</div>
       </Tilt>
     </motion.div>
   );
@@ -96,4 +109,4 @@ const Works = () => {
   );
 };
 
-export default SectionWrapper(Works, "works");
+export default SectionWrapper(Works, "projects");
