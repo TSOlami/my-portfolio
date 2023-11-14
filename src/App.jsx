@@ -9,7 +9,7 @@ const App = () => {
      <About />
      <Skills />
      <Works />
-     <div>
+     <div className='relative z-0'>
       <Contact />
       <StarsCanvas />
      </div>
