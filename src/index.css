@@ -38,13 +38,8 @@ body {
 #repulse-div {
 	-webkit-appearance: none;
 	appearance: none;
-	-webkit-filter: drop-shadow(0 0 5rem #292d44);
-	filter: drop-shadow(0 0 5rem #292d44);
-}
-
-#repulse-div > h1 {
-	-webkit-filter: drop-shadow(0 0 5rem #292d44);
-	filter: drop-shadow(0 0 5rem #292d44);
+	-webkit-filter: drop-shadow(0 0 5rem #434343);
+	filter: drop-shadow(0 0 5rem #434343);
 }
 
 .hash-span {

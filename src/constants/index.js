@@ -330,7 +330,7 @@ import {
 	  title: 'C Programming',
 	  icon: c,
 	  description:
-		'My journey into the world of object-oriented programming began with C. This foundational language taught me the essentials of structured coding and set the stage for my career in software development.',
+		'My journey into the world of object-oriented programming began with C. This foundational language taught me the essentials of structured coding and set the stage for my career.',
 	},
 	{
 	  id: 'cloud',
@@ -351,14 +351,14 @@ import {
 	  title: 'Raspberry Pi',
 	  icon: raspIcon,
 	  description:
-		'I am passionate about Raspberry Pi and its wide range of applications. Whether it is configuring hardware, coding in Python, or experimenting with IoT projects, I love diving into the endless possibilities this versatile tool offers.',
+		'I am passionate about Raspberry Pi and its wide range of applications, configuring hardware, coding in Python, or experimenting with IoT projects.',
 	},
 	{
 	  id: 'eslint',
 	  title: 'Code Quality',
 	  icon: eslintIcon,
 	  description:
-		'I take pride in crafting pristine and professional code, adhering to industry standards and best practices. I diligently follow PEP8 style guidelines for Python and leverage ESLint for JavaScript projects, ensuring top-notch quality and consistency.',
+		'I craft pristine and professional code, follow industry standards and best practices. I diligently follow PEP8 style guidelines for Python, ESLint for JavaScript projects, ensuring top-notch quality and consistency.',
 	},
   ];
 
