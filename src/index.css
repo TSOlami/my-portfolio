@@ -25,13 +25,26 @@ body {
   -webkit-overflow: hidden;
 }
 
+/* WebKit (Chrome, Safari) */
 #journey-scroll::-webkit-scrollbar {
-	display: none;
+  display: none;
 }
 
+/* Firefox */
 #journey-scroll {
-	-ms-overflow-style: none;
-	scrollbar-width: none;
+  scrollbar-width: none;
+}
+
+#repulse-div {
+	-webkit-appearance: none;
+	appearance: none;
+	-webkit-filter: drop-shadow(0 0 5rem #292d44);
+	filter: drop-shadow(0 0 5rem #292d44);
+}
+
+#repulse-div > h1 {
+	-webkit-filter: drop-shadow(0 0 5rem #292d44);
+	filter: drop-shadow(0 0 5rem #292d44);
 }
 
 .hash-span {

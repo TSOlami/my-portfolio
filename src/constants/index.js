@@ -417,7 +417,7 @@ import {
 	text: [
 	  "Tijani Saheed Olamilekan, a Backend Engineer & Developer",
   
-	  "But you can just call me TJ. I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. While my specialization lies in backend development my passion extends to AI & Machine Learning, and my mathematical background greatly amplifies my ability to dissect intricate data structures and algorithms, making complex problems more manageable.",
+	  "But you can just call me TJ. I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. While my specialization lies in backend development, my passion extends to AI & Machine Learning, and my mathematical background greatly amplifies my ability to dissect intricate data structures and algorithms, making complex problems more manageable.",
   
 	  "When I'm not coding or doing maths, I like to unwind with some chess, video games and a bit of drawing. Music is my jam, I'm always grooving to different beats.",
   
