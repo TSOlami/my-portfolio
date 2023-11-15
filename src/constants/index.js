@@ -381,7 +381,7 @@ import {
 		  color: "green-text-gradient",
 		},
 		{
-		  name: "tailwind",
+		  name: "figma",
 		  color: "pink-text-gradient",
 		},
 	  ],
