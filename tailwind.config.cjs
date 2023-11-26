@@ -19,6 +19,8 @@ module.exports = {
 			50: "#faf5f0",
 			100: "#f0e7dd",
 			200: "#f0e1ce",
+			300: "#e0d1be",
+			400: "#d0c1ae",
 		},
 		  glass: "#6e6052",
 		  tertiary: "#434343",
