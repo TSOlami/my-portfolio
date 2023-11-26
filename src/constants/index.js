@@ -415,7 +415,7 @@ import {
   
   const introduction = {
 	text: [
-	  "Tijani Saheed Olamilekan, a Software Engineer & Developer",
+	  "Tijani S. Olamilekan, a Software Engineer & Developer",
   
 	  "But you can just call me TJ. I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. While my specialization lies in backend development, my passion extends to AI & Machine Learning, and my mathematical background greatly amplifies my ability to dissect intricate data structures and algorithms, making complex problems more manageable.",
   
