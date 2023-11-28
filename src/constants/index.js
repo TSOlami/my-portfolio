@@ -387,7 +387,7 @@ import {
 	  ],
 	  image: namssn,
 	  source_code_link: "https://github.com/TSOlami/namssn-website/",
-		project_link: "https://test-namssn-futminna.onrender.com/",
+		project_link: "https://namssn-futminna.onrender.com/",
 	},
 	{
 	  name: "TrackC",
@@ -411,6 +411,32 @@ import {
 	  source_code_link: "https://github.com/TSOlami/TrackC",
 		project_link: "https://trackc-flask-app-wg3p.onrender.com/",
 	},
+	{
+		name: "Portfolio Website",
+		description:
+		  "I built my portfolio website using tools like React.js, Three.js, Tailwind CSS, Framer Motion, ESLint and some other tech goodies. This project was a great opportunity to showcase my skills and creativity. I also used this project to learn more about React.js and Three.js.",
+		tags: [
+			{
+				name: "react",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "threejs",
+				color: "pink-text-gradient",
+			},
+			{
+				name: "tailwind",
+				color: "green-text-gradient",
+			},
+			{
+				name: "eslint",
+				color: "pink-text-gradient",
+			},
+		],
+		image: avatar,
+		source_code_link: "https://github.com/TSOlami/my-portfolio",
+		project_link: "https://whosteejay.netlify.app/"
+	}
   ];
   
   const introduction = {
