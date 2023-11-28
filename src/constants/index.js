@@ -331,7 +331,7 @@ import {
 	{
 		name: "Portfolio Website",
 		description:
-		  "I built my portfolio website using tools like React.js, Three.js, Tailwind CSS, Framer Motion, ESLint and some other tech goodies. This project was a great opportunity to showcase my skills and creativity. I also used this project to learn more about React.js and Three.js.",
+		  "I built my portfolio website using tools like React.js, Three.js, Tailwind CSS, Framer Motion, ESLint and some other tech goodies. This project was a great opportunity to showcase my skills and creativity. It was also a great way to learn new technologies and improve my existing skills. It displays a bit of my personality and my journey as a developer, my skills, projects and experiences.",
 		tags: [
 			{
 				name: "react",
