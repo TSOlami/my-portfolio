@@ -17,7 +17,7 @@ const Navbar = () => {
     fixed top-0 z-20`}
     style={{
       backgroundImage:
-        "linear-gradient(to bottom, rgba(0, 0, 0, 0.4), transparent)"
+        "linear-gradient(to bottom, rgba(0, 0, 0, 0.3), transparent)"
     }}>
 
       <div
