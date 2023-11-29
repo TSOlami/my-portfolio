@@ -86,6 +86,27 @@ const Works = () => {
       <motion.div variants={textVariant()}>
       <SectionTitle title="PROJECTS" subtitle="WHAT I HAVE DONE SO FAR" />
       </motion.div>
+
+      <div className='w-full flex'>
+        <motion.p
+          variants={fadeIn("", "", 0.1, 1)}
+          className='mt-3 text-secondary-50 text-[17px] max-w-3xl leading-[30px]'
+        >
+          I built these projects to showcase my skills. Each project represents a journey of learning and creativity, reflecting my passion for technology and using it to solve real world problems. All of my projects are real world applications that are used by real people to improve their daily lives.
+
+          <br /><br />
+
+          Feel free to explore any of my projects using the account credentials provided below:
+
+          <br />
+          <strong>Email:</strong> demo@gmail.com
+          <br />
+          <strong>Password:</strong> demo1234
+
+          <br /><br />
+          I am always working on something new as I continue to evolve and create, so make sure to check back often! 
+        </motion.p>
+      </div>
       
       <div className='mt-20 flex flex-wrap gap-7'>
         {projects.map((project, index) => (

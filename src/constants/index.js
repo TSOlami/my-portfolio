@@ -283,7 +283,7 @@ import {
 	{
 	  name: "NAMSSN Website",
 	  description:
-		"NAMSSN is a non-profit organization that aims to promote the welfare of Nigerian students in the Federal University of Technology, Minna. I built the website using Figma, React.js and Tailwind CSS for the frontend and deployed it on Render. I also created a custom backend using Node.js and MongoDB to handle user authentication and data storage.",
+		"My friends and I always struggled to find comprehensive lecture notes, textbooks, past questions and solutions for our departmental courses in my university. So I collaborated with my peers to create an E-Library for our department (non-profit). I built the website using React.js, Node.js, MongoDB and Figma. I integrated the telegram bot API for saving these resources on the telegram cloud to reduce the cost of hosting the files. I also integrated a payment gateway (Paystack) to allow students pay their dues without stress on the website.",
 	  tags: [
 		{
 		  name: "react",
@@ -309,7 +309,7 @@ import {
 	{
 	  name: "TrackC",
 	  description:
-		"TrackC is a web application that allows users to track all their crypto assets, manage their portfolio, and stay updated with the latest cryptocurrency news. I built the web application using Python-Flask web framework and Tailwind. I used coingecko API to get live coin prices with news updates and also use the data to determine the total value of the user's portfolio.",
+		"I realized how difficult it was for me and my friends that are crypto enthusiasts to keep track of our crypto assets, so i went ahead to assembled a team to build TrackC. TrackC is a web application that allows users to track all their crypto assets, manage their portfolio, and stay updated with the latest cryptocurrency news. I built the web application using Python-Flask web framework and Tailwind. I used coingecko API to get live and the historical price of coins to plot a graph of the user's portfolio value over time. I also used the same API to get the latest news about cryptocurrencies. ",
 	  tags: [
 		{
 		  name: "Flask",
@@ -331,7 +331,7 @@ import {
 	{
 		name: "Portfolio Website",
 		description:
-		  "I built my portfolio website using tools like React.js, Three.js, Tailwind CSS, Framer Motion, ESLint and some other tech goodies. This project was a great opportunity to showcase my skills and creativity. It was also a great way to learn new technologies and improve my existing skills. It displays a bit of my personality and my journey as a developer, my skills, projects and experiences.",
+		  "I built my portfolio website using tools like React.js, Three.js, Tailwind CSS, Framer Motion, ESLint and some other tech goodies. This project was a great opportunity to showcase my skills and creativity. It was also a great way to learn new technologies and improve my existing skills. It displays a bit of my personality and my journey as a developer, my skills, projects and experiences. To practice my real-time rendering skills and make the website more interactive, I used Three.js to display different 3D models on the website. I also used Framer Motion to add some cool animations to the website.",
 		tags: [
 			{
 				name: "react",
