@@ -219,7 +219,7 @@ import {
 	  title: 'Figma',
 	  icon: figmaIcon,
 	  description:
-	  ' I bring ideas to life using Figma, creating stunning and user-friendly interfaces that captivate and engage.',
+	  'I bring ideas to life using Figma, creating stunning and user-friendly interfaces that captivate and engage.',
 	},
 	{
 	  id: 'git',
