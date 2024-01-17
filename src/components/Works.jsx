@@ -92,10 +92,8 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary-50 text-[17px] max-w-3xl leading-[30px]'
         >
-          Each project represents a journey of learning and creativity, reflecting my passion for technology and using it to solve real world problems. All of my projects are real world applications that are used by real people to improve their daily lives.
+          All of my projects are real world applications that are used by real people to improve their daily lives.
 
-          <br /><br />
-          
           Feel free to explore any of my projects using the account credentials provided below:
 
           <br />
