@@ -309,7 +309,7 @@ import {
 	{
 	  name: "TrackC",
 	  description:
-		"I realized how difficult it was for me and my friends that are crypto enthusiasts to keep track of our crypto assets, so i went ahead to assembled a team to build TrackC. TrackC is a web application that allows users to track all their crypto assets, manage their portfolio, and stay updated with the latest cryptocurrency news. I built the web application using Python-Flask web framework and Tailwind. I used coingecko API to get live and the historical price of coins to plot a graph of the user's portfolio value over time. I also used the same API to get the latest news about cryptocurrencies. ",
+		"I realized how difficult it was for me and my friends that are crypto enthusiasts to keep track of our crypto assets, so i went ahead and assembled a team to build TrackC. TrackC is a web application that allows users to track all their crypto assets, manage their portfolio, and stay updated with the latest cryptocurrency news. I built the web application using Python-Flask web framework and Tailwind. I used coingecko API to get live and the historical price of coins to plot a graph of the user's portfolio value over time. I also used the same API to get the latest news about cryptocurrencies. ",
 	  tags: [
 		{
 		  name: "Flask",
