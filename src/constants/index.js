@@ -362,7 +362,7 @@ import {
   
 	  "But you can just call me TJ. I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. While my specialization lies in backend development, my passion extends to AI & Machine Learning, and my mathematical background greatly amplifies my ability to dissect intricate data structures and algorithms, making complex problems more manageable.",
   
-	  "When I'm not coding or solving maths problems, you'll likely still catch me thinking about coding and math🌚 (seriously, it's a perpetual thought loop). Otherwise, I enjoy anime, video games, and manga. I'm into chess, football, and a bit of drawing. Music? I have a playlist for all your moods.",
+	  "When I'm not coding or solving math problems, you'll likely still catch me thinking about coding and math🌚 (seriously, it's a perpetual thought loop). Otherwise, I enjoy anime, video games, and manga. I'm into chess, football, and a bit of drawing. Music? I have a playlist for all your moods.",
   
 	  "I'm always happy to join forces with like-minded individuals and teams  because hey, who doesn't love a good tech adventure with friends? Feel free to take a leisurely stroll through my potfolio. And always remember, in this digital realm, I'm just a click away, so never hesitate to reach out and connect. Thanks for dropping by!",
 	],
