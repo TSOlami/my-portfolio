@@ -360,7 +360,7 @@ import {
 	text: [
 	  "Tijani S. Olalekan, a Software Engineer & Developer",
   
-	  "But you can just call me TJ. I'm a 22-year-old final year Pure & Applied Mathematics student based in Lagos. While my specialization lies in backend development, my passion extends to AI & Machine Learning, and my mathematical background greatly amplifies my ability to dissect intricate data structures and algorithms, making complex problems more manageable.",
+	  "But you can just call me TJ. I'm a 23-year-old final year Pure & Applied Mathematics student based in Lagos. While my specialization lies in backend development, my passion extends to AI & Machine Learning, and my mathematical background greatly amplifies my ability to dissect intricate data structures and algorithms, making complex problems more manageable.",
   
 	  "When I'm not coding or solving math problems, you'll likely still catch me thinking about coding and math🌚 (seriously, it's a perpetual thought loop). Otherwise, I enjoy anime, video games, and manga. I'm into chess, football, and a bit of drawing. Music? I have a playlist for all your moods.",
   
