@@ -24,7 +24,8 @@ import threejs from "./tech/threejs.svg";
 
 import namssn from "./namssn.png";
 import trackc from "./trackc.png";
-import whosteejay from "./whosteejay.png"
+import whosteejay from "./whosteejay.png";
+import finnImage from "./finn.png";
 
 
 import avatar from "./teejay.png";
@@ -81,6 +82,7 @@ export {
   threejs,
   namssn,
   trackc,
+  finnImage,
   whosteejay,
   tjIcon,
   avatar,
