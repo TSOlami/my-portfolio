@@ -18,6 +18,7 @@ import {
 	docker,
 	namssn,
 	trackc,
+	finnImage,
 	threejs,
 	avatar,
 	solving,
@@ -71,7 +72,7 @@ import {
 	  icon: web,
 	},
 	{
-	  title: "React Native Developer",
+	  title: "React Developer",
 	  icon: mobile,
 	},
 	{
@@ -281,6 +282,40 @@ import {
 
   const projects = [
 	{
+		name: "Finn",
+		description:
+		  "Finn is a microservices-based AI-toolbox that allows users to work smarter. It provides an API documentation generator service, video to audio converter service, Youtube downloader service and more. I built the project using a microservices architecture, with each service handling a specific task. I used Docker to containerize the services and Kubernetes to orchestrate them. I also integrated OAuth for user authentication and RabbitMQ for message queuing. The project is designed to be scalable, secure, and user-friendly, making it a valuable asset for developers.",
+		  tags: [
+		  {
+			name: "NextJS",
+			color: "blue-text-gradient",
+		  },
+		  {
+			name: "Docker",
+			color: "pink-text-gradient",
+		  },
+		  {
+			name: "NodeJS",
+			color: "green-text-gradient",
+		  },
+		  {
+			name: "Flask",
+			color: "pink-text-gradient",
+		  },
+		  {
+			name: "AWS",
+			color: "green-text-gradient",
+		  },
+		  {
+			name: "AI",
+			color: "pink-text-gradient",
+		  },
+		],
+		image: finnImage, // You need to import or provide the image path
+		source_code_link: "https://github.com/TSOlami/Finn",
+		project_link: "https://github.com/TSOlami/Finn",
+	},
+	{
 	  name: "NAMSSN Website",
 	  description:
 		"My friends and I always struggled to find comprehensive lecture notes, textbooks, past questions and solutions for our departmental courses in my university. So I collaborated with my peers to create an E-Library for our department (non-profit). I built the website using React.js, Node.js, MongoDB and Figma. I integrated the telegram bot API for saving these resources on the telegram cloud to reduce the cost of hosting the files. I also integrated a payment gateway (Paystack) to allow students pay their dues without stress on the website.",
@@ -322,6 +357,10 @@ import {
 		{
 		  name: "Tailwind",
 		  color: "pink-text-gradient",
+		},
+		{
+		  name: "SQL",
+		  color: "green-text-gradient",
 		},
 	  ],
 	  image: trackc,
