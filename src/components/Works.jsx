@@ -6,10 +6,8 @@ import SectionTitle from "./elements/SectionTitle";
 import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
-import { fadeIn } from "../utils/motion";
 
 const ProjectCard = ({
-  index,
   name,
   description,
   tags,
@@ -18,7 +16,7 @@ const ProjectCard = ({
   project_link,
 }) => {
   return (
-    <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
+    <motion.div>
       <Tilt
         options={{
           max: 30,
@@ -89,7 +87,6 @@ const Works = () => {
         <SectionTitle title="PROJECTS" subtitle="WHAT I HAVE DONE SO FAR" />
 				</div>
         <motion.p
-          variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary-50 text-[17px] max-w-3xl leading-[30px]'
         >
           All of my projects are real world applications that are used by real people to improve their daily lives.
