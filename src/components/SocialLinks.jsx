@@ -18,7 +18,7 @@ const SocialLinks = () => {
 			className="text-3xl text-white hover:text-secondary-200 hover:scale-[1.1] transition-all duration-75"
 			/>
 			</a>
-			<a href="https://www.linkedin.com/in/saheed-tijani-b9935625b/" target="_blank " rel="noreferrer">
+			<a href="https://www.linkedin.com/in/sotijani/" target="_blank " rel="noreferrer">
 			<FontAwesomeIcon
 			icon={faLinkedin}
 			className="text-3xl text-white hover:text-secondary-200 hover:scale-[1.1] transition-all duration-75"
